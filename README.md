@@ -1,4 +1,4 @@
-# HeThongVienThong_20181
+# Bài Tập Lớn Hệ Thống Viễn Thông - 20181
 Giảng Viên: TS. Phùng Thị Kiều Hà
 
 Nhóm 3
@@ -11,4 +11,4 @@ Nguyễn Phương Nam
 
 Lê Xuân Giang
 
-Thực hiện: Tháng 10/ 2018
+Thực hiện: Tháng 10/2018
